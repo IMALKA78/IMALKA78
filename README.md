@@ -87,7 +87,7 @@ I am also enthusiastic about collaborating on **open-source projects, academic r
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_SLU](https://www.linkedin.com/in/imalka-ireshan-2b4520220/)"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://facebook.com/YOUR_FACEBOOK_HANDLE"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/></a>
 </p>
