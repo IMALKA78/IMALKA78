@@ -93,20 +93,7 @@ I am also enthusiastic about collaborating on **open-source projects, academic r
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="margin:10px;"/>
   </a>
   
-  <!-- Facebook -->
-  <a href="https://facebook.com/imalkaireshan.ireshan/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" style="margin:10px;"/>
-  </a>
   
-  <!-- Email -->
- <a href="mailto:ireshanimalka78@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" style="margin:10px;"/>
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/imalka78" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" style="margin:10px;"/>
-  </a>
   
   
 
