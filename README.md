@@ -85,24 +85,31 @@ I am also enthusiastic about collaborating on **open-source projects, academic r
 
 ---
 
-### 🌐 Connect With Me
+
 ### 🌐 Connect With Me
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/imalka-ireshan-2b4520220/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin:10px;"/>
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="margin:10px;"/>
   </a>
   
   <!-- Facebook -->
   <a href="https://facebook.com/imalkaireshan.ireshan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="margin:10px;"/>
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" style="margin:10px;"/>
   </a>
   
   <!-- Email -->
-  <a href="mailto:ireshanimalka78@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50" height="50" style="margin:10px;"/>
+  <a href="mailto:[ireshanimalka78@gmail.com](https://mail.google.com/mail/u/1/#inbox)" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" style="margin:10px;"/>
   </a>
-</p>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/imalka78" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" style="margin:10px;"/>
+  </a>
+  
+  
+
 
 
 <p align="center">✨ Thanks for visiting! Check out my repositories and leave a ⭐ if you like my work!</p>
