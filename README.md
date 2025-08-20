@@ -86,13 +86,24 @@ I am also enthusiastic about collaborating on **open-source projects, academic r
 ---
 
 ### 🌐 Connect With Me
+### 🌐 Connect With Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_SLU](https://www.linkedin.com/in/imalka-ireshan-2b4520220/)"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_HANDLE"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/imalka-ireshan-2b4520220/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin:10px;"/>
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://facebook.com/imalkaireshan.ireshan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="margin:10px;"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:ireshanimalka78@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50" height="50" style="margin:10px;"/>
+  </a>
 </p>
 
----
 
 <p align="center">✨ Thanks for visiting! Check out my repositories and leave a ⭐ if you like my work!</p>
 
