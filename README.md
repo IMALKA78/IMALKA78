@@ -21,6 +21,22 @@ I am also enthusiastic about collaborating on **open-source projects, academic r
 
 ---
 
+### 📈 My GitHub Stats
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=imalka78&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/imalka78?label=Followers&style=social" alt="GitHub Followers" />
+  
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/imalka78?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+
+---
+
 ### 🔎 A Little More About Me
 - 🔭 I’m currently working on **JavaScript projects, Laravel applications, and exploring DevOps practices**  
 - 🌱 I’m currently learning **advanced Laravel, CI/CD pipelines, and containerization (Docker & Kubernetes)**  
