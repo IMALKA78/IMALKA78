@@ -15,7 +15,7 @@ I am passionate about **software development, problem-solving, and exploring mod
 - 🤖 Artificial intelligence  
 - ☁️ Cloud computing  
 
-With a growing foundation in programming languages including **C, Java, Python, and web technologies**, I am continuously improving my technical and analytical skills.  
+With a growing foundation in programming languages including **JavaScript, Laravel, APIs, or DevOps basics and  web technologies**, I am continuously improving my technical and analytical skills.  
 
 I am also enthusiastic about collaborating on **open-source projects, academic research, and innovative software solutions** that can make a **real-world impact**.  
 
