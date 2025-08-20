@@ -99,7 +99,7 @@ I am also enthusiastic about collaborating on **open-source projects, academic r
   </a>
   
   <!-- Email -->
-  <a href="mailto:[ireshanimalka78@gmail.com](https://mail.google.com/mail/u/1/#inbox)" target="_blank">
+ <a href="mailto:ireshanimalka78@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" style="margin:10px;"/>
   </a>
   
