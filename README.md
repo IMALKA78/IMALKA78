@@ -1,85 +1,93 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#FF5733;">Imalka Ireshan</span></h1>
-<h3 align="center">🎨 UI/UX Designer & Frontend Developer | 🎓 BSc Hons Software Engineering</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=UI%2FUX+Specialist;Frontend+Architect;Pixel+Perfect+Developer;Figma+to+Code+Expert" alt="Typing SVG" />
-</p>
+# Imalka Ireshan Wimalasekara
 
----
+### UI/UX Designer & Frontend Developer
 
-### 👨‍🎨 About Me
-I am **S.M.I.I.K Wimalasekara**, a Software Engineering undergraduate at the **Open University of Sri Lanka** with a passion for building **beautiful, functional, and user-centered digital experiences.**
+Turning Figma designs into fast, accessible, pixel-perfect React interfaces.
 
-I bridge the gap between complex design and high-performance code. My focus is on turning high-fidelity prototypes into responsive, accessible, and interactive web applications. 
+<a href="mailto:ireshanimalka78@gmail.com"><img src="https://img.shields.io/badge/Email-ireshanimalka78%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/imalka-ireshan-2b4520220/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/imalka78"><img src="https://img.shields.io/github/followers/imalka78?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers"/></a>
 
-- 🎨 **Design Philosophy:** Clean, intuitive, and data-driven interfaces.
-- 💻 **Frontend Focus:** Translating Figma designs into pixel-perfect React & Tailwind CSS.
-- 🚀 **Mission:** Creating digital solutions that prioritize User Experience (UX) without compromising technical scalability.
+</div>
 
 ---
 
-### 🛠 My Creative Stack
+## About
 
-**Design & Prototyping**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin:10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="50" height="50" style="margin:10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" width="50" height="50" style="margin:10px;"/>
-</p>
+I'm a Software Engineering undergraduate at the **Open University of Sri Lanka** (BSc Hons) who works across both sides of product building: designing the experience in Figma, then implementing it in code.
 
-**Frontend Development**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="50" height="50" style="margin:10px;"/>
-</p>
+My work focuses on:
+
+- **Design:** clean, intuitive, data-driven interfaces backed by UX research and wireframing
+- **Development:** responsive, accessible web apps built with React and Tailwind CSS
+- **Delivery:** design-to-code handoff that stays faithful to the original design without sacrificing scalability
+
+---
+
+## Tech Stack
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45" style="margin:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin:10px;"/>
-</p>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## Currently
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imalka78&label=Portfolio%20Views&color=FF5733&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/imalka78?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalka78&layout=compact&theme=radical" alt="langs"/>
-</p>
+- Building advanced UI animations and micro-interactions in React
+- Learning Framer Motion and Three.js for 3D web experiences
+- Open to collaborating on UI kits and open-source design systems
 
 ---
 
-### 🔎 Current Focus
-- 🔭 **Working on:** Advanced UI animations and micro-interactions in React.
-- 🌱 **Learning:** Framer Motion and Three.js for 3D web experiences.
-- 👯 **Looking to collaborate on:** UI Kit libraries and Open Source Design Systems.
-- 💬 **Ask me about:** UX Research, Wireframing, and why CSS-in-JS is awesome.
-- 📫 **Reach me:** ireshanimalka78@gmail.com
-- ⚡ **Fun fact:** I don't just write code; I draw the user's journey before the first line is typed. ✍️
+## Featured Projects
+
+> Replace these with your best 2-3 projects. Keep each description to one line: what it is, and what you built.
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Project Name**](https://github.com/imalka78/your-repo) | One-line summary of the problem it solves and your role | React, Tailwind CSS |
+| [**Project Name**](https://github.com/imalka78/your-repo) | One-line summary of the problem it solves and your role | Laravel, MySQL |
+| [**Project Name**](https://github.com/imalka78/your-repo) | One-line summary of the problem it solves and your role | Figma, React |
 
 ---
 
-### 🌐 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/imalka-ireshan-2b4520220/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="margin:10px;"/>
-  </a>
-  <a href="[INSERT_YOUR_BEHANCE_OR_PORTFOLIO_LINK]" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" style="margin:10px;"/>
-  </a>
-</p>
+## GitHub Activity
 
-<p align="center">✨ "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs</p>
+<div align="center">
 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=imalka78&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalka78&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
 
+</div>
 
+---
 
+## Get in Touch
+
+Ask me about UX research, wireframing, Figma-to-code workflows, or design systems. I'm happy to connect on LinkedIn or by email.
+
+<div align="center">
+
+*"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+
+</div>
